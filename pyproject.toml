@@ -1,0 +1,11 @@
+[project]
+name = "multimodal-agentic-notebook"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.120.2",
+    "python-dotenv>=1.2.1",
+    "uvicorn>=0.38.0",
+]
